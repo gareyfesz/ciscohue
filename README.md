@@ -13,13 +13,18 @@
 * Hue lights that connect back to a V2 bridge and a valid API key for your bridge. I am linking the guide on how to create an API key. https://developers.meethue.com/develop/get-started-2/
 * Brief knowledge of the Hue API.  I will provide a link, you will need to create an account. https://developers.meethue.com/develop/hue-api/lights-api/
 
-#### Setup
+## What these files do
+* The files in the hue-curls folder send a PUT request to bridge to perform the action of your choice
+* The files in the in the hue-php-calls folder will execute the curl executeables when accessed.
+* The file in the hue-service-xml provides the front end of the services button on the phonem allowing you to choose what light fucntion you want to perform
+
+## Setup
 
 * Clone the repo and copy the "ciscohue" folder to root of your favorite webserver
 * Head to the hue-curls folder and add your API key and the light group number you want to control
 * Make the files in the hue-curls folder executeable with chmod +x
 
-## Changes to your SEPMACADDRESS.cnf.xml
+####Changes to your SEPMACADDRESS.cnf.xml
 
 You will need to add the below line to your phones config file in your TFTP server, edit file and IP accordingly.
 This file is in the hue-service-xml folder
@@ -29,10 +34,7 @@ This file is in the hue-service-xml folder
 Restart phone for the changes to take affect
 
 
-## What these files do
-* The files in the hue-curls folder send a PUT request to bridge to perform the action of your choice
-* The files in the in the hue-php-calls folder will execute the curl executeables when accessed.
-* The file in the hue-service-xml provides the front end of the services button on the phonem allowing you to choose what light fucntion you want to perform
+
 
 
 
