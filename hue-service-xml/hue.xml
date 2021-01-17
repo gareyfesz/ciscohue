@@ -1,0 +1,19 @@
+<CiscoIPPhoneMenu>
+  <Title>Shenanigans</Title>
+  <MenuItem>
+    <Name>ask apache nicely</Name>
+    <URL>http://ciscohue/hue-php/fortune.php/</URL>
+  </MenuItem>
+<MenuItem>
+    <Name>On</Name>
+    <URL>http://ciscohue/hue-php/gareyon.php/</URL>
+  </MenuItem>
+<MenuItem>
+    <Name>Off</Name>
+    <URL>http://ciscohue/hue-php/gareyoff.php/</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Dim</Name>
+    <URL>http://ciscohue/hue-php/gareydim.php/</URL>
+  </MenuItem>
+</CiscoIPPhoneMenu>

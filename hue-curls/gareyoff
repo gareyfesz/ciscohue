@@ -1,0 +1,1 @@
+curl --request PUT --data '{"on":false, "bri":254}' http://YOUR_HUE_IP_HERE/api/YOUR_HUE_API_KEY_HERE/groups/17/action
