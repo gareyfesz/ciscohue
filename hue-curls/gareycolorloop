@@ -1,1 +1,0 @@
-curl --request PUT --data '{"on":true, "bri":254, "effect": "colorloop"}' http://YOUR_HUE_IP_HERE/api/YOUR_HUE_API_KEY_HERE/groups/17/action

@@ -1,0 +1,1 @@
+curl --request PUT --data '{"on":true, "bri":150, "sat":0}' http://YOUR_HUE_IP_HERE/api/YOUR_HUE_API_KEY_HERE/groups/LIGHT_GROUP_NUMBER/action
