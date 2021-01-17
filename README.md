@@ -15,7 +15,7 @@
 
 ## Changes to SEPMACADDRESS.cnf.xml
 
-You will need to add the below line to your phones config file, edit file and IP accordingly/
+You will need to add the below line to your phones config file, edit file and IP accordingly.
 
-<servicesURL>http://YOUR_WEB_SERVER_HERE/custom_services/hue-service-xml/hue.xml</servicesURL>
+'<servicesURL>http://YOUR_WEB_SERVER_HERE/custom_services/hue-service-xml/hue.xml</servicesURL>'
   
