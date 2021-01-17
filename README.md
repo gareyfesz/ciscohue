@@ -15,7 +15,10 @@
 
 ## Changes to SEPMACADDRESS.cnf.xml
 
-You will need to add the below line to your phones config file, edit file and IP accordingly.
+You will need to add the below line to your phones config file in your TFTP server, edit file and IP accordingly.
+This file is in the hue-service-xml folder
 
 `<servicesURL>http://YOUR_WEB_SERVER_HERE/custom_services/hue-service-xml/hue.xml</servicesURL>`
   
+After adding this to your SEPMACADDRESS.cnf.xml file for your phones mac address reboot the phone 
+ 
