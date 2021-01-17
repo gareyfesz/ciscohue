@@ -8,4 +8,6 @@
 
 #### Prerequsisites
 * A PBX that you can succesfully register a 794x or 796x phone with SIP firmware. (Im using FreePBX with Asterisks 15)
-* 
+* A webserver that can execute php.  You can host these files on you PBXX if youd like
+  Id rather host on a seperate box.
+  
