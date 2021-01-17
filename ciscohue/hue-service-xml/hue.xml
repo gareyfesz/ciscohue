@@ -6,14 +6,14 @@
   </MenuItem>
 <MenuItem>
     <Name>On</Name>
-    <URL>http://ciscohue/hue-php/gareyon.php/</URL>
+    <URL>http://ciscohue/hue-php/on.php/</URL>
   </MenuItem>
 <MenuItem>
     <Name>Off</Name>
-    <URL>http://ciscohue/hue-php/gareyoff.php/</URL>
+    <URL>http://ciscohue/hue-php/off.php/</URL>
   </MenuItem>
   <MenuItem>
     <Name>Dim</Name>
-    <URL>http://ciscohue/hue-php/gareydim.php/</URL>
+    <URL>http://ciscohue/hue-php/dim.php/</URL>
   </MenuItem>
 </CiscoIPPhoneMenu>
