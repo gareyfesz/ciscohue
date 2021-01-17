@@ -1,2 +1,5 @@
-# ciscohue
-Control of Phillips Hue Lights using the Services button on a 794x and 796x series phones
+# Cisco Hue Integration
+
+
+
+#### This guide covers how change hue light state on a 794x or 796* series IP phone registered to Asterisk
