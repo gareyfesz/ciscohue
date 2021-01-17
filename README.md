@@ -24,7 +24,7 @@
 * Head to the hue-curls folder and add your API key and the light group number you want to control
 * Make the files in the hue-curls folder executeable with chmod +x
 
-####Changes to your SEPMACADDRESS.cnf.xml
+#### Changes to your SEPMACADDRESS.cnf.xml
 
 You will need to add the below line to your phones config file in your TFTP server, edit file and IP accordingly.
 This file is in the hue-service-xml folder
