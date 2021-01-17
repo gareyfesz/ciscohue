@@ -5,5 +5,5 @@ header('Connection: close');
 <CiscoIPPhoneText>
 <Title> On</Title>
 <Prompt/>
-<Text><?php echo htmlspecialchars(`/var/www/html/ciscohue/white`, ENT_XML1); ?></Text>
+<Text><?php echo htmlspecialchars(`/var/www/html/ciscohue/hue-curls/white`, ENT_XML1); ?></Text>
 </CiscoIPPhoneText>
