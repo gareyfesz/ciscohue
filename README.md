@@ -2,4 +2,10 @@
 
 
 
-#### This guide covers how change hue light state on a 794x or 796* series IP phone registered to Asterisk
+#### What this guide and files cover: 
+* Sample fiels that you can change and use as your own
+* Where to host said files
+
+#### Prerequsisites
+* A PBX that you can succesfully register a 794x or 796x phone with SIP firmware. (Im using FreePBX with Asterisks 15)
+* 
