@@ -24,9 +24,13 @@
 * Head to the hue-curls folder and add your API key and the light group number you want to control
 * Make the files in the hue-curls folder executable with chmod +x
 * You may need to add the following line to your apache2 config. (if your using apache2)
-`<Location /phone/>`
-     `ForceType text/xml`
-` </Location>`
+```xml
+
+<Location /phone/>
+     ForceType text/xml
+</Location>
+
+```
 
 
 #### Changes to your SEPMACADDRESS.cnf.xml
