@@ -3,7 +3,7 @@
 ## Before we start I will share what I used in my setup
 * A Cisco 7941G 
 * FreePBX 15 with Asterisk 16
-* An Ubuntu weberver runnning Apache2
+* An Ubuntu webserver runnning Apache2
 
 
 #### What this guide and files cover: 
