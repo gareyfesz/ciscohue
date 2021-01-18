@@ -30,7 +30,7 @@
 * You may need to add the following line to your apache2 config. (if your using apache2)
 ```xml
 
-<Location /phone/>
+<Location /ciscohue/>
      ForceType text/xml
 </Location>
 
