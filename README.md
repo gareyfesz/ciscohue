@@ -1,11 +1,15 @@
 # Cisco Hue Integration
 
+## Before we start I will share what I used in my setup
+* A Cisco 7941G 
+* FreePBX 15 with Asterisk 16
+* An Ubuntu weberver runnning Apache2
 
 
 #### What this guide and files cover: 
 * Sample files that you can change and use as your own
 * Where to host said files
-* 
+* Brief install guide
 
 ## Prerequisites
 * Cisco 794x or 796x phone running SIP firmware.  It appears that Cisco has removed the 7941 firmware form their downloads site ;(
