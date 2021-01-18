@@ -48,6 +48,7 @@ Restart phone for the changes to take effect
 
 ## Final Words
 At this point, you should be able to control your Hue lights with your Cisco 794x and 796x IP phone!
+If your system has fortune installed at /usr/games/fortune the phone will run display the result when you click on the first entry in the services menu.
 
 ## Troubleshooting
 * Can you control your lights successfully executing the curl commands locally? ex. "./off"
